@@ -37,7 +37,7 @@ class App extends Component {
         </UserInput>
         <UserOutput 
           name = {this.state.name}>
-          I'm a proficient Web Developer and I love React
+          I am a proficient Web Developer and I love React
         </UserOutput>
         <UserOutput 
           name = "Nihar">
