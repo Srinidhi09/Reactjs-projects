@@ -1,8 +1,14 @@
 .App {
   text-align: center;
-  margin-top: 100px;
+  margin-top: 50px;
 }
 h1{
   font-size: 40px;
   margin-bottom: 30px;
+}
+.red{
+  color: red;
+}
+.bold{
+  font-weight: bold;
 }
